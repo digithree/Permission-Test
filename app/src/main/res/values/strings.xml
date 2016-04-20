@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Permission Test</string>
+    
+    <string name="call_button_text">Call</string>
+
+    <string name="explanatory_text">Press the call button to attempt a phone call to a bogus number. This will test the permission system on Lollipop and newer systems.</string>
+</resources>
